@@ -20,7 +20,7 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 
 #### ScreenShots
 Bvh hierarchy visualization  
-<img src="./out/images/bvh.png" width = "50%" height = "50%" />  
+<img src="./out/images/bvh.png" />  
 Control panel  
 <img src="./out/images/control.png" width = "50%" height = "50%" />  
 Cast ray from camera and visualization  
