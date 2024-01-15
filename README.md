@@ -1,9 +1,9 @@
-### IBLRenderer
+## IBLRenderer
 IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ and OpenGL. 
 
 <img src="./out/images/ibl.png" />
 
-#### Features
+### Features
 * IBL(Image Based Lighting)
 * Anti-aliasing(MSAA)
 * BVH(Bounding Volume Hierarchy)
@@ -18,7 +18,7 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 * HDR and Gamma-correction
 * PBR materials
 
-#### ScreenShots
+### ScreenShots
 **Bvh hierarchy visualization**    
 <img src="./out/images/bvh.png" />  
 **Control panel**    
@@ -36,7 +36,7 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 **Blur the image(Gaussian blur)**   
 <img src="./out/images/blur.png" />
 
-#### Dependencies
+### Dependencies
 * [GLFW](https://www.glfw.org/)-Library for creating a window with an OpenGL context
 * [GLAD](https://glad.dav1d.de/)-Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs
 * [GLM](https://glm.g-truc.net/0.9.9/index.html)-C++ mathematics library for graphics software based on the GLSL specifications
@@ -44,10 +44,10 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 * [STB-IMAGE](https://github.com/nothings/stb)-Library for loading images from files
 * [ImGui](https://github.com/ocornut/imgui)-A bloat-free graphical user interface library for C++
 
-#### License
+### License
 This project is licensed under MIT License.
 
-#### References
+### References
 * [Learn OpenGL](https://learnopengl.com/)
 * [Real Shading in Unreal Engine 4](http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_notes_v2.pdf)
 * [GAMES101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
