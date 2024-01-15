@@ -19,21 +19,21 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 * PBR materials
 
 #### ScreenShots
-Bvh hierarchy visualization  
+**Bvh hierarchy visualization**    
 <img src="./out/images/bvh.png" />  
-Control panel  
+**Control panel**    
 <img src="./out/images/control.png" />  
-Cast ray from camera and visualization  
+**Cast ray from camera and visualization**   
 <img src="./out/images/castRay.png" />  
-Shadows(shadow mapping, pcf and pcss)  
+**Shadows(shadow mapping, pcf and pcss)**   
 <img src="./out/images/shadow.png" />  
-Ibl viewer  
+**Ibl viewer**   
 <img src="./out/images/iblViewer.png" />  
-Highlight the outline of selected model by mouse  
+**Highlight the outline of selected model by mouse**   
 <img src="./out/images/outline.png" />  
-Sharpen the image  
+**Sharpen the image**   
 <img src="./out/images/sharpen.png" />  
-Blur the image(Gaussian blur)  
+**Blur the image(Gaussian blur)**   
 <img src="./out/images/blur.png" />
 
 #### Dependencies
