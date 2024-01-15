@@ -1,7 +1,7 @@
 ### IBLRenderer
 IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ and OpenGL. 
 
-<img src="./out/images/ibl.png" width = "50%" height = "50%" />
+<img src="./out/images/ibl.png" />
 
 #### Features
 * IBL(Image Based Lighting)
