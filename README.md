@@ -22,19 +22,19 @@ IBLRenderer is a 3D renderer based on IBL(Image based lighting) written in C++ a
 Bvh hierarchy visualization  
 <img src="./out/images/bvh.png" />  
 Control panel  
-<img src="./out/images/control.png" width = "50%" height = "50%" />  
+<img src="./out/images/control.png" />  
 Cast ray from camera and visualization  
-<img src="./out/images/castRay.png" width = "50%" height = "50%" />  
+<img src="./out/images/castRay.png" />  
 Shadows(shadow mapping, pcf and pcss)  
-<img src="./out/images/shadow.png" width = "50%" height = "50%" />  
+<img src="./out/images/shadow.png" />  
 Ibl viewer  
-<img src="./out/images/iblViewer.png" width = "50%" height = "50%" />  
+<img src="./out/images/iblViewer.png" />  
 Highlight the outline of selected model by mouse  
-<img src="./out/images/outline.png" width = "50%" height = "50%" />  
+<img src="./out/images/outline.png" />  
 Sharpen the image  
-<img src="./out/images/sharpen.png" width = "50%" height = "50%" />  
+<img src="./out/images/sharpen.png" />  
 Blur the image(Gaussian blur)  
-<img src="./out/images/blur.png" width = "50%" height = "50%" />
+<img src="./out/images/blur.png" />
 
 #### Dependencies
 * [GLFW](https://www.glfw.org/)-Library for creating a window with an OpenGL context
